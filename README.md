@@ -1,2 +1,2 @@
-# Ejercicios-de-Logica-y-C-Comisi-n-2-UNLZ-
-Acá compartimos los ejercicios y otras cosas
+# Tecnicatura en Programación de Computadores || Universidad Nacional de Lomas de Zamora
+
